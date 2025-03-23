@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="phonepe-payment",
+    name="phonepe_transaction",
     version="1.1",
     author="Dev Pancholi",
     author_email="devpancholigt2004@gmail.com",
@@ -12,7 +12,7 @@ setup(
     License="MIT",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Devpancholi04/phonepe-payment",
+    url="https://github.com/Devpancholi04/phonepe_transaction",
     packages=find_packages(),
     install_requires = [
         'requests'

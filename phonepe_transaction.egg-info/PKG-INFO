@@ -1,3 +1,21 @@
+Metadata-Version: 2.4
+Name: phonepe_transaction
+Version: 1.0
+Summary: A simplified way to integrate payments into websites and applications using API responses.
+Home-page: https://github.com/Devpancholi04/phonepe_transaction
+Author: Dev Pancholi
+Author-email: Dev Pancholi <devpancholigt2004@gmail.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/Devpancholi04/phonepe_transaction
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Dynamic: author
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-python
+
 # PhonePe Payment Processing
 
 A simple Python Package to integrate Phonepe payments in your application.
